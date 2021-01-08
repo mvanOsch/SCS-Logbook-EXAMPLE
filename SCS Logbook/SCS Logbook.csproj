@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SCSSdkClient">
-      <HintPath>..\..\..\..\Desktop\SCSSdkClient.dll</HintPath>
+      <HintPath>..\..\..\_Modding\ETS2ATS\SCSSdkClient.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
